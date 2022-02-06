@@ -22,5 +22,6 @@ Results:
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Currently in the company database, there are five active managers as shown below. There is not enough qualified mentors to get ready for mentorship program.
+![active_managers.png](Resources/active_managers.png)
+
