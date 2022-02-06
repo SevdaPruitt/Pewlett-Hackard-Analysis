@@ -20,8 +20,6 @@ Results:
 - Percentage ready to retire is nearly 30% of all employees.
 - There are 1549 employees eligible for mentorship to fill in potential retirees.
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-
 Currently in the company database, there are five active managers as shown below. There is not enough qualified mentors to get ready for mentorship program.
 ![active_managers.png](Resources/active_managers.png)
 
