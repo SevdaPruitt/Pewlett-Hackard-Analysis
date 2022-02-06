@@ -9,8 +9,10 @@ To show the accurate picture among employee, manager, and departments informatio
 
 ![EmployeeDB.png](Resources/EmployeeDB.png)
 
+
 As I have analyzed who would be eligible for retirement based on hire and birth date by department, it became more clear what to focus on or take proactive steps for mentorship at the company. 
 Below is the specifics.
+
 
 ![grouped_by.png](Resources/grouped_by.png)
 
@@ -20,7 +22,7 @@ Results:
 - Total number of retirment eligible employees is 90,398 who are born between January 1, 1952, and December 31, 1955.
 - Percentage ready to retire is nearly 30% of all employees.
 - There are 1549 employees eligible for mentorship to fill in potential retirees.
-- 
+
 
 Currently in the company database, there are five active managers as shown below. There is not enough qualified mentors to get ready for mentorship program.
 
