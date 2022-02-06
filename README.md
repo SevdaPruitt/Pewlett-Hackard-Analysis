@@ -16,7 +16,7 @@ Below is the specifics.
 
 Results: 
 
-- Total number of eligible employees is 90,398.
+- Total number of retirment eligible employees is 90,398 who are born between January 1, 1952, and December 31, 1955.
 - Percentage ready to retire is nearly 30% of all employees.
 - There are 1549 employees eligible for mentorship to fill in potential retirees.
 
