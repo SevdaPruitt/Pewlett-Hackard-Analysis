@@ -16,9 +16,9 @@ Below is the specifics.
 
 Results: 
 
-Total number of eligible employees is 90,398.
-Percentage ready to retire is nearly 30% of all employees.
-There are 1549 employees eligible for mentorship to fill in potential retirees.
+- Total number of eligible employees is 90,398.
+- Percentage ready to retire is nearly 30% of all employees.
+- There are 1549 employees eligible for mentorship to fill in potential retirees.
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
