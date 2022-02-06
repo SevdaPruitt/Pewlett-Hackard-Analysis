@@ -12,7 +12,7 @@ To show the accurate picture among employee, manager, and departments informatio
 As I have analyzed who would be eligible for retirement based on hire and birth date by department, it became more clear what to focus on or take proactive steps for mentorship at the company. 
 Below is the specifics.
 
-![grouped_by.png](grouped_by.png)
+![grouped_by.png](Resources/grouped_by.png)
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
